@@ -76,6 +76,10 @@ Linking Library:  .build/debug/Clock.a
 
 ---
 
+![](images/yatusabes.gif)
+
+---
+
 # Current state
 
 - Currently builds dynamic/static libraries or binaries
